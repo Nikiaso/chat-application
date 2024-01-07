@@ -5,7 +5,7 @@ import "./App.css";
 import { Button } from "@chakra-ui/react";
 import { Route } from "react-router-dom";
 import Home from "./Pages/Home.jsx";
-import Chat from "./Pages/Chat.jsx";
+import Chat from "./Pages/Chat.jsx";  
 
 function App() {
   return (

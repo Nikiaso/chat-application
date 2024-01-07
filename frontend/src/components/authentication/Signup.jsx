@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { Stack, FormLabel, Input, FormControl, Button } from "@chakra-ui/react";
 import { PasswordField } from "./PasswordField";
-import { OAuthButtonGroup } from "./OAuthButtonGroup";
 
 const Signup = () => {
   const [name, setName] = useState();
